@@ -24,24 +24,6 @@
     <category lang="en">News</category>
     <language lang="fa">فارسی</language>
   </programme>
-  <programme start="20261103014500 +0000" stop="20261103020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261103020000 +0000" stop="20261103023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">سیاست با مراد ویسی</title>
-    <desc lang="fa">در این برنامه مراد ویسی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/455fba048fbef7ff4dac52a1b7f978be5d350af7-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/news-special-with-morad</url>
-  </programme>
-  <programme start="20261103023000 +0000" stop="20261103031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
   <programme start="20261103031500 +0000" stop="20261103033000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">News</category>
@@ -53,12 +35,9 @@
     <language lang="fa">فارسی</language>
   </programme>
   <programme start="20261103041500 +0000" stop="20261103043000 +0000" channel="iranintl.iitv">
-    <title lang="fa">اقتصاد و بازار</title>
-    <desc lang="fa">در اقتصاد و بازار، از شنبه تا چهارشنبه با تیمی از برجسته‌ترین خبرنگاران و تحلیلگران اقتصادی، واقعیت‌های اقتصاد ایران را با نگاهی به تازه‌ترین خبرهای این حوزه، به خانه شما می‌آوریم</desc>
-    <category lang="en">Talk</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/4d78baada536ff28f5767de69ad3c59323ab5c0b-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/economics-daily</url>
   </programme>
   <programme start="20261103043000 +0000" stop="20261103050000 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
