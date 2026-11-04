@@ -16,11 +16,6 @@
     <category lang="en">News</category>
     <language lang="fa">فارسی</language>
   </programme>
-  <programme start="20261104023000 +0000" stop="20261104031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
   <programme start="20261104033000 +0000" stop="20261104043000 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">News</category>
@@ -77,18 +72,10 @@
     <category lang="en">News</category>
     <language lang="fa">فارسی</language>
   </programme>
-  <programme start="20261104074500 +0000" stop="20261104080000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
+  <programme start="20261104074500 +0000" stop="20261104081500 +0000" channel="iranintl.iitv">
+    <title lang="fa">گفت‌وگوی ویژه</title>
     <category lang="en">News</category>
     <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261104080000 +0000" stop="20261104081500 +0000" channel="iranintl.iitv">
-    <title lang="fa">چرتکه</title>
-    <desc lang="fa">در این برنامه محمد ماشین‌چیان با منطق بازار و ابزارهای اقتصادی چرتکه می‌اندازد تا گره‌های پیچیده اقتصاد را باز کرده و بینندگان را به تصمیم‌های بهتر برساند.</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/f390ab0f1f17bbb4ff33bf8b106ad84717880cf8-1920x1080.png" />
-    <url>https://www.iranintl.com/fa/program/chortkeh</url>
   </programme>
   <programme start="20261104081500 +0000" stop="20261104083000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
