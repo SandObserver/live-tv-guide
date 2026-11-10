@@ -965,9 +965,12 @@
     <language lang="fa">فارسی</language>
   </programme>
   <programme start="20261113041500 +0000" stop="20261113043000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
+    <title lang="fa">چرتکه</title>
+    <desc lang="fa">در این برنامه محمد ماشین‌چیان با منطق بازار و ابزارهای اقتصادی چرتکه می‌اندازد تا گره‌های پیچیده اقتصاد را باز کرده و بینندگان را به تصمیم‌های بهتر برساند.</desc>
+    <category lang="en">Talk</category>
     <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/f390ab0f1f17bbb4ff33bf8b106ad84717880cf8-1920x1080.png" />
+    <url>https://www.iranintl.com/fa/program/chortkeh</url>
   </programme>
   <programme start="20261113043000 +0000" stop="20261113050000 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -988,12 +991,9 @@
     <language lang="fa">فارسی</language>
   </programme>
   <programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="iranintl.iitv">
-    <title lang="fa">گفت‌وگوی ویژه</title>
-    <desc lang="fa">گفت‌وگوی ویژه</desc>
-    <category lang="en">Talk</category>
+    <title lang="fa">گفت‌وگوی ویژه با شهلا شفیق</title>
+    <category lang="en">News</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/539ca4f0a7aabf0deee8d6ae5ee8ce0df3892589-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/special-interview-series</url>
   </programme>
   <programme start="20261113063000 +0000" stop="20261113071500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -1128,12 +1128,9 @@
     <url>https://www.iranintl.com/fa/program/the-last-word</url>
   </programme>
   <programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="iranintl.iitv">
-    <title lang="fa">دومینو</title>
-    <desc lang="fa">تحلیلی از علی حسین قاضی زاده در مورد آخرین اخبار ایران</desc>
-    <category lang="en">Talk</category>
+    <title lang="fa">گفت‌وگوی ویژه با شهلا شفیق</title>
+    <category lang="en">News</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/0f2196696133e6720ebc5b18dfd74614488a6342-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/domino-live</url>
   </programme>
   <programme start="20261113183000 +0000" stop="20261113191500 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
