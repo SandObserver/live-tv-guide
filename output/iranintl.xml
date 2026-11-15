@@ -6,184 +6,6 @@
     <icon src="https://www.iranintl.com/images/ii/ii-logo-en.svg" />
     <url>https://www.iranintl.com/live</url>
   </channel>
-  <programme start="20261114003000 +0000" stop="20261114011500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114011500 +0000" stop="20261114013000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114013000 +0000" stop="20261114014500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114014500 +0000" stop="20261114020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">دومینو</title>
-    <desc lang="fa">تحلیلی از علی حسین قاضی زاده در مورد آخرین اخبار ایران</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/0f2196696133e6720ebc5b18dfd74614488a6342-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/domino-live</url>
-  </programme>
-  <programme start="20261114023000 +0000" stop="20261114031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114033000 +0000" stop="20261114041500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114063000 +0000" stop="20261114071500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114073000 +0000" stop="20261114074500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114083000 +0000" stop="20261114091500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114093000 +0000" stop="20261114101500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114103000 +0000" stop="20261114111500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114111500 +0000" stop="20261114113000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر ورزشی</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114123000 +0000" stop="20261114131500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114133000 +0000" stop="20261114141500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114143000 +0000" stop="20261114150000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114150000 +0000" stop="20261114151500 +0000" channel="iranintl.iitv">
-    <title lang="fa">گزارش روز با مجتبا پورمحسن</title>
-    <desc lang="fa">مجتبا پورمحسن در گزارش روز خود مهم ترین تحول و اتفاق رخ داده در هر روز را با تکیه بر روزنامه نگاری تحقیقی و اطلاعات اختصاصی ایران اینترنشنال بررسی و گزارش می کند.</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/e0bc9d97afa8acfb4f93cddbab98175bee3812f4-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/daily-report-with-mojtaba-pourmohesen</url>
-  </programme>
-  <programme start="20261114151500 +0000" stop="20261114153000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر ورزشی</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114153000 +0000" stop="20261114160000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114160000 +0000" stop="20261114161500 +0000" channel="iranintl.iitv">
-    <title lang="fa">اقتصاد و بازار</title>
-    <desc lang="fa">در اقتصاد و بازار، از شنبه تا چهارشنبه با تیمی از برجسته‌ترین خبرنگاران و تحلیلگران اقتصادی، واقعیت‌های اقتصاد ایران را با نگاهی به تازه‌ترین خبرهای این حوزه، به خانه شما می‌آوریم</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/4d78baada536ff28f5767de69ad3c59323ab5c0b-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/economics-daily</url>
-  </programme>
-  <programme start="20261114163000 +0000" stop="20261114171500 +0000" channel="iranintl.iitv">
-    <title lang="fa">تیتر اول با نیوشا صارمی</title>
-    <desc lang="fa">از شنبه تا چهارشنبه، تیتر اول همراه با تیمی زبده سراغ مهم‌ترین خبرهای روز می‌رود و در بخش «زیر ‌ذره‌بین» نگاهی عمیق و دقیق می‌اندازد به خبرهای جنجالی و راستی‌آزمایی آن‌چه سیاستمداران گفته‌اند.</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/387d51d0e97d66cbf1277758ce3fd8b0ef55fa30-1920x1080.png" />
-    <url>https://www.iranintl.com/fa/program/titre-aval</url>
-  </programme>
-  <programme start="20261114173000 +0000" stop="20261114181500 +0000" channel="iranintl.iitv">
-    <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
-    <desc lang="fa">چشم‌انداز، برنامه‌ تحلیلی ایران اینترنشنال است که با حضور کارشناسان مختلف به مدت یک ساعت به بررسی آخرین اخبار و رویدادهای سیاسی، فرهنگی و اجتماعی می‌پردازد. چشم‌انداز نگاهی دارد به زوایای مختلف رویدادها در دنیای پرهیاهوی امروز ما. دنیایی که هر کس از زاویه دید خود آن را می‌بیند و چشم‌انداز فرصتی است برای بینندگانش تا با این تفاوت دیدگاه‌ها و تحلیل‌ها آشنا شوند.</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/29017c1ae553cc374846afed6df7f43a7e4278af-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/talk-show</url>
-  </programme>
-  <programme start="20261114183000 +0000" stop="20261114191500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114193000 +0000" stop="20261114200000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114203000 +0000" stop="20261114204500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114210000 +0000" stop="20261114213000 +0000" channel="iranintl.iitv">
-    <title lang="fa">سیاست با مراد ویسی</title>
-    <desc lang="fa">در این برنامه مراد ویسی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/455fba048fbef7ff4dac52a1b7f978be5d350af7-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/news-special-with-morad</url>
-  </programme>
-  <programme start="20261114213000 +0000" stop="20261114221500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114223000 +0000" stop="20261114224500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261114233000 +0000" stop="20261114234500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
   <programme start="20261115003000 +0000" stop="20261115011500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">News</category>
@@ -471,7 +293,7 @@
   </programme>
   <programme start="20261116183000 +0000" stop="20261116191500 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد</desc>
     <category lang="en">Talk</category>
     <language lang="fa">فارسی</language>
     <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
@@ -693,7 +515,7 @@
   </programme>
   <programme start="20261117183000 +0000" stop="20261117191500 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد</desc>
     <category lang="en">Talk</category>
     <language lang="fa">فارسی</language>
     <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
@@ -756,7 +578,7 @@
   </programme>
   <programme start="20261117234500 +0000" stop="20261118003000 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد</desc>
     <category lang="en">Talk</category>
     <language lang="fa">فارسی</language>
     <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
@@ -997,7 +819,7 @@
   </programme>
   <programme start="20261118183000 +0000" stop="20261118191500 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد</desc>
     <category lang="en">Talk</category>
     <language lang="fa">فارسی</language>
     <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
@@ -1065,7 +887,7 @@
   </programme>
   <programme start="20261118234500 +0000" stop="20261119003000 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد</desc>
     <category lang="en">Talk</category>
     <language lang="fa">فارسی</language>
     <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
@@ -1292,7 +1114,7 @@
   </programme>
   <programme start="20261119183000 +0000" stop="20261119191500 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد</desc>
     <category lang="en">Talk</category>
     <language lang="fa">فارسی</language>
     <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
@@ -1359,7 +1181,7 @@
   </programme>
   <programme start="20261119234500 +0000" stop="20261120003000 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد</desc>
     <category lang="en">Talk</category>
     <language lang="fa">فارسی</language>
     <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
@@ -1572,7 +1394,7 @@
   </programme>
   <programme start="20261120183000 +0000" stop="20261120191500 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد</desc>
     <category lang="en">Talk</category>
     <language lang="fa">فارسی</language>
     <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
@@ -1639,10 +1461,185 @@
   </programme>
   <programme start="20261120234500 +0000" stop="20261121003000 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد</desc>
     <category lang="en">Talk</category>
     <language lang="fa">فارسی</language>
     <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
     <url>https://www.iranintl.com/fa/program/24-with-fardad</url>
+  </programme>
+  <programme start="20261121003000 +0000" stop="20261121011500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121011500 +0000" stop="20261121013000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121013000 +0000" stop="20261121014500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121014500 +0000" stop="20261121020000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="iranintl.iitv">
+    <title lang="fa">گفت‌وگوی ویژه با شهلا شفیق</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121023000 +0000" stop="20261121031500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121033000 +0000" stop="20261121041500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121043000 +0000" stop="20261121050000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121063000 +0000" stop="20261121071500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121073000 +0000" stop="20261121074500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121083000 +0000" stop="20261121091500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121093000 +0000" stop="20261121101500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121103000 +0000" stop="20261121111500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121111500 +0000" stop="20261121113000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر ورزشی</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121123000 +0000" stop="20261121131500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121133000 +0000" stop="20261121141500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121150000 +0000" stop="20261121151500 +0000" channel="iranintl.iitv">
+    <title lang="fa">گزارش روز با مجتبا پورمحسن</title>
+    <desc lang="fa">مجتبا پورمحسن در گزارش روز خود مهم ترین تحول و اتفاق رخ داده در هر روز را با تکیه بر روزنامه نگاری تحقیقی و اطلاعات اختصاصی ایران اینترنشنال بررسی و گزارش می کند.</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/e0bc9d97afa8acfb4f93cddbab98175bee3812f4-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/daily-report-with-mojtaba-pourmohesen</url>
+  </programme>
+  <programme start="20261121151500 +0000" stop="20261121153000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر ورزشی</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121160000 +0000" stop="20261121161500 +0000" channel="iranintl.iitv">
+    <title lang="fa">اقتصاد و بازار</title>
+    <desc lang="fa">در اقتصاد و بازار، از شنبه تا چهارشنبه با تیمی از برجسته‌ترین خبرنگاران و تحلیلگران اقتصادی، واقعیت‌های اقتصاد ایران را با نگاهی به تازه‌ترین خبرهای این حوزه، به خانه شما می‌آوریم</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/4d78baada536ff28f5767de69ad3c59323ab5c0b-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/economics-daily</url>
+  </programme>
+  <programme start="20261121163000 +0000" stop="20261121171500 +0000" channel="iranintl.iitv">
+    <title lang="fa">تیتر اول با نیوشا صارمی</title>
+    <desc lang="fa">از شنبه تا چهارشنبه، تیتر اول همراه با تیمی زبده سراغ مهم‌ترین خبرهای روز می‌رود و در بخش «زیر ‌ذره‌بین» نگاهی عمیق و دقیق می‌اندازد به خبرهای جنجالی و راستی‌آزمایی آن‌چه سیاستمداران گفته‌اند.</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/387d51d0e97d66cbf1277758ce3fd8b0ef55fa30-1920x1080.png" />
+    <url>https://www.iranintl.com/fa/program/titre-aval</url>
+  </programme>
+  <programme start="20261121173000 +0000" stop="20261121181500 +0000" channel="iranintl.iitv">
+    <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
+    <desc lang="fa">چشم‌انداز، برنامه‌ تحلیلی ایران اینترنشنال است که با حضور کارشناسان مختلف به مدت یک ساعت به بررسی آخرین اخبار و رویدادهای سیاسی، فرهنگی و اجتماعی می‌پردازد. چشم‌انداز نگاهی دارد به زوایای مختلف رویدادها در دنیای پرهیاهوی امروز ما. دنیایی که هر کس از زاویه دید خود آن را می‌بیند و چشم‌انداز فرصتی است برای بینندگانش تا با این تفاوت دیدگاه‌ها و تحلیل‌ها آشنا شوند.</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/29017c1ae553cc374846afed6df7f43a7e4278af-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/talk-show</url>
+  </programme>
+  <programme start="20261121183000 +0000" stop="20261121191500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121203000 +0000" stop="20261121204500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121210000 +0000" stop="20261121213000 +0000" channel="iranintl.iitv">
+    <title lang="fa">سیاست با مراد ویسی</title>
+    <desc lang="fa">در این برنامه مراد ویسی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/455fba048fbef7ff4dac52a1b7f978be5d350af7-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/news-special-with-morad</url>
+  </programme>
+  <programme start="20261121213000 +0000" stop="20261121221500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121223000 +0000" stop="20261121224500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261121233000 +0000" stop="20261121234500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
   </programme>
 </tv>
