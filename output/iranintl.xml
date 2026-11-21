@@ -21,21 +21,6 @@
     <category lang="en">News</category>
     <language lang="fa">فارسی</language>
   </programme>
-  <programme start="20261121014500 +0000" stop="20261121020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">گفت‌وگوی ویژه با شهلا شفیق</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261121023000 +0000" stop="20261121031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
   <programme start="20261121031500 +0000" stop="20261121033000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">News</category>
@@ -2069,8 +2054,13 @@
     <icon src="https://i.iranintl.com/images/rdk9umy0/production/8bee83f2ea134304c1486fb1f252081e2911f942-450x253.png" />
     <url>https://www.iranintl.com/fa/program/the-last-word</url>
   </programme>
-  <programme start="20261127180000 +0000" stop="20261127183000 +0000" channel="iranintl.iitv">
+  <programme start="20261127180000 +0000" stop="20261127181500 +0000" channel="iranintl.iitv">
     <title lang="fa">گفت‌وگوی ویژه با شهلا شفیق</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261127181500 +0000" stop="20261127183000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">News</category>
     <language lang="fa">فارسی</language>
   </programme>
